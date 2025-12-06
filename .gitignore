@@ -3,10 +3,6 @@ node_modules/
 .pnp
 .pnp.js
 
-# Next.js
-.next/
-out/
-
 # Production
 build/
 dist/

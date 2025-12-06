@@ -1,0 +1,11 @@
+{
+  "/page": "app/page.js",
+  "/services/page": "app/services/page.js",
+  "/services/web-development/page": "app/services/web-development/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/services/mobile-applications/page": "app/services/mobile-applications/page.js",
+  "/services/cloud-solutions/page": "app/services/cloud-solutions/page.js",
+  "/services/digital-strategy/page": "app/services/digital-strategy/page.js",
+  "/services/ui-ux-design/page": "app/services/ui-ux-design/page.js",
+  "/services/technology-consulting/page": "app/services/technology-consulting/page.js"
+}
